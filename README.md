@@ -58,5 +58,8 @@ Project Status
 In progress.  
 Current phase: Project setup and planning.
 
+Note: Data cleaning steps completed including missing value treatment and duplicate removal.
+
+
 Author  
 Vansh Raj Soni
